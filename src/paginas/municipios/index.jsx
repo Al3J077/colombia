@@ -45,4 +45,4 @@ function Municipios() {
   );
 }
 
-export default Municipio;
+export default Municipios;  // Asegúrate de exportar el nombre correcto
